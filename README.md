@@ -1,4 +1,5 @@
-# Case Study Collection
+# Case Study: Medical Pprocedure Scheduler
 
-This is a collection of case studies (sample projects) most of which were done as part of job interview processes.
-
+1. Run Maven build: maven install
+2. Execute app: run.bat (or OS equivalent)
+3. Open Browser at localhost:8080
